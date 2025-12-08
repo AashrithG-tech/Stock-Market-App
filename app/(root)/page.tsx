@@ -1,6 +1,6 @@
 import React from 'react'
 import {Button} from "@/components/ui/button";
-import TradingViewWidget from "@/components/TradingViewwidget";
+import TradingViewWidget from "@/components/TradingViewWidget";
 import {
     HEATMAP_WIDGET_CONFIG,
     MARKET_DATA_WIDGET_CONFIG,
